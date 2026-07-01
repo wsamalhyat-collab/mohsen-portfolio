@@ -1,0 +1,186 @@
+index.html
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>محسن محمد أحمد قضام | Digital Marketing & AI</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<header>
+
+<nav>
+
+<h2>محسن قضام</h2>
+
+<ul>
+
+<li><a href="#home">الرئيسية</a></li>
+
+<li><a href="#about">نبذة</a></li>
+
+<li><a href="#services">الخدمات</a></li>
+
+<li><a href="#skills">المهارات</a></li>
+
+<li><a href="#contact">التواصل</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<section id="home" class="hero">
+
+<h1>محسن محمد أحمد قضام</h1>
+
+<h2>Digital Marketing & AI Marketing Specialist</h2>
+
+<p>
+
+أساعد أصحاب المشاريع على بناء حضور قوي على الإنترنت من خلال التسويق الرقمي وإدارة وسائل التواصل الاجتماعي والذكاء الاصطناعي.
+
+</p>
+
+<a href="#contact" class="btn">
+تواصل معي
+</a>
+
+</section>
+
+<section id="about">
+
+<h2>نبذة عني</h2>
+
+<p>
+
+متخصص في التسويق الرقمي والذكاء الاصطناعي وصناعة الهوية الرقمية، وأسعى إلى تقديم حلول احترافية تساعد الشركات والأفراد على النمو وتحقيق نتائج حقيقية.
+
+</p>
+
+</section>
+
+<section id="services">
+
+<h2>الخدمات</h2>
+
+<div class="cards">
+
+<div class="card">
+<i class="fas fa-bullhorn"></i>
+<h3>التسويق الرقمي</h3>
+<p>إدارة الحملات الإعلانية وتحقيق أفضل النتائج.</p>
+</div>
+
+<div class="card">
+<i class="fas fa-robot"></i>
+<h3>الذكاء الاصطناعي</h3>
+<p>استخدام أدوات AI لتطوير الأعمال.</p>
+</div>
+
+<div class="card">
+<i class="fas fa-chart-line"></i>
+<h3>تحليل البيانات</h3>
+<p>تقارير دقيقة تساعد على اتخاذ القرار.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="skills">
+
+<h2>المهارات</h2>
+
+<div class="skill">
+
+<p>Digital Marketing</p>
+
+<progress value="95" max="100"></progress>
+
+</div>
+
+<div class="skill">
+
+<p>AI Marketing</p>
+
+<progress value="90" max="100"></progress>
+
+</div>
+
+<div class="skill">
+
+<p>SEO</p>
+
+<progress value="88" max="100"></progress>
+
+</div>
+
+<div class="skill">
+
+<p>Social Media</p>
+
+<progress value="95" max="100"></progress>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>التواصل</h2>
+
+<p>
+
+📞 +967774757163
+
+</p>
+
+<p>
+
+📞 +967715120683
+
+</p>
+
+<p>
+
+📧 wsamalhyat@gmail.com
+
+</p>
+
+<p>
+
+📍 اليمن
+
+</p>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 جميع الحقوق محفوظة
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
